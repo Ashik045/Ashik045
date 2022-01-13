@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ashik
+- 👋 Hi, I’m Ashikur Islam
 - 👀 I’m interested in create professional website.
 - 🌱 I’m currently learning mern stack web development.
 - 💞️ I’m looking to collaborate on creating website for your buisness and for your personal ocation.
