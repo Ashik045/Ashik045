@@ -4,7 +4,7 @@
 - I’m interested in create professional website.
 - I’m currently learning mern stack web development.
 - I’m looking to collaborate on creating website for your buisness and for your personal ocation.
-- How to reach me? My gmail is ashikurislam045@gmail.com .
+- How to reach me? My gmail is ashikislam0455@gmail.com .
 
 <h3 align="left">Connect with me:</h3>
 
