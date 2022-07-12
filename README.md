@@ -1,10 +1,9 @@
 ![Header linkedin idea (Community)](https://user-images.githubusercontent.com/78463849/172988554-5f3992e7-4689-48eb-aef6-430e8fa21892.png)
 
-- Hi, I’m Ashikur Islam.
-- I’m interested in create professional website.
-- I’m currently learning mern stack web development.
-- I’m looking to collaborate on creating website for your buisness and for your personal ocation.
-- How to reach me? My gmail is ashikislam0455@gmail.com .
+ ** Hi, I’m Ashikur Islam. I’m a full stack developer with strong knowledge of front-end and back-end technologies and have a decent amount of experience in developing web applications. I love taking your website goals and finding a solution that's right for you, no matter how complex. 
+ ** I am a fast learner, constantly trying to keep up with new trends and open to learning new technologies. I have strong communication and problem-solving skills. I bringing ideas to life with excellent design & coding skills. **
+
+ How to reach me? My gmail is ashikislam0455@gmail.com .
 
 <h3 align="left">Connect with me:</h3>
 
