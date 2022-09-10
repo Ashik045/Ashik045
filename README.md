@@ -16,7 +16,7 @@ I have expertise with the following technologies:
 - Cloud: Heroku, Vercel, Netlify
 - OSs: Windows, Linux(Ubuntu, Fedora)
 
-How to reach me? My gmail is ashikislam0455@gmail.com .
+How to reach me? My gmail is ashikislam0455@gmail.com
 
 # 💻 Tech Stack:
 
