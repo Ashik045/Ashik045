@@ -34,7 +34,7 @@ How to reach me? My gmail is ashikislam0455@gmail.com
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashik045&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![Leetcode Stats](https://leetcard.jacoblin.cool/ashikurislam)](https://leetcode.com/ashikurislam/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ashikurislam?theme=dark&lapor?ext=heatmap)](https://leetcode.com/ashikurislam/)
 
 ---
 
