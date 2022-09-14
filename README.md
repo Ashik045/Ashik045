@@ -1,4 +1,5 @@
-![Header linkedin idea (Community)](https://user-images.githubusercontent.com/78463849/172988554-5f3992e7-4689-48eb-aef6-430e8fa21892.png)
+![Header linkedin idea (Community)(2)](https://user-images.githubusercontent.com/78463849/190126582-16a45602-d065-4d93-acd8-2b0f687377e9.jpg)
+
 
 **_Hi, I’m Ashikur Islam._**
 
