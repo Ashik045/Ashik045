@@ -7,6 +7,8 @@
 
 **_I am a fast learner, constantly trying to keep up with new trends and open to learning new technologies. I have strong communication and problem-solving skills. I bringing ideas to life with excellent design & coding skills._**
 
+Portfolio: https://ashikur.vercel.app/
+
 I have expertise with the following technologies:
 - Language: Javascript
 - Front-end: React.js, Next.js, HTML5, CSS3, SASS, Bootstrap, Material UI
