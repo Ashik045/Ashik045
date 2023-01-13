@@ -3,7 +3,7 @@
 
 **_Hi, I’m Ashikur Islam._**
 
-**_I’m a A self-motivated MERN stack developer. Being a fast learner, I am always looking to learn new technologies and constantly trying to keep up with new trends. I bring ideas to life with excellent design & coding skills. I have the positive attitude and expertise to assist you with any project, regardless of how small or large it might be.._**
+**_I’m a self-motivated MERN stack developer. Being a fast learner, I am always looking to learn new technologies and constantly trying to keep up with new trends. I bring ideas to life with excellent design & coding skills. I have the positive attitude and expertise to assist you with any project, regardless of how small or large it might be.._**
 
 Portfolio: https://ashikur.vercel.app/
 
