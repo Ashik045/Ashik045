@@ -3,19 +3,14 @@
 
 **_Hi, I’m Ashikur Islam._**
 
-**_I’m a full stack developer with strong knowledge of front-end and back-end technologies and have a decent amount of experience in developing web applications. I love taking your website goals and finding a solution that's right for you, no matter how complex._**
-
-**_I am a fast learner, constantly trying to keep up with new trends and open to learning new technologies. I have strong communication and problem-solving skills. I bringing ideas to life with excellent design & coding skills._**
+**_I’m a A self-motivated MERN stack developer. Being a fast learner, I am always looking to learn new technologies and constantly trying to keep up with new trends. I bring ideas to life with excellent design & coding skills. I have the positive attitude and expertise to assist you with any project, regardless of how small or large it might be.._**
 
 Portfolio: https://ashikur.vercel.app/
 
 I have expertise with the following technologies:
-- Language: Javascript
-- Front-end: React.js, Next.js, HTML5, CSS3, SASS, Bootstrap, Material UI
-- Back-end: Node.js, Express.js, Mongoose
-- Database: MongoDB
-- Tools: Gitlab, Github Actions, Figma, Visual Studio
-- Cloud: Heroku, Vercel, Netlify
+- Front-end: React.js, Next.js, Javascript, HTML5, CSS3, SASS, Bootstrap, Material UI
+- Back-end: Node.js, Express.js, MongoDB
+- Tools: Figma, Canva, Postman, Heroku, Vercel, Netlify, Visual Studio
 - OSs: Windows, Linux(Ubuntu, Fedora)
 
 
@@ -37,6 +32,6 @@ I have expertise with the following technologies:
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashikurislam045) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Ashik96966022)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashikur045) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ashikur045)
 
 [![](https://visitcount.itsvg.in/api?id=Ashik045&icon=0&color=0)](https://visitcount.itsvg.in)
