@@ -1,17 +1,17 @@
-![Header linkedin idea (Community)(2)](https://user-images.githubusercontent.com/78463849/190126582-16a45602-d065-4d93-acd8-2b0f687377e9.jpg)
-
+![ashikur banner](https://user-images.githubusercontent.com/78463849/236451004-39568ac3-b859-4924-aea5-eb887565a78d.png)
 
 **_Hi, I’m Ashikur Islam._**
 
-**_I’m a self-motivated MERN stack developer. Being a fast learner, I am always looking to learn new technologies and constantly trying to keep up with new trends. I bring ideas to life with excellent design & coding skills. I have the positive attitude and expertise to assist you with any project, regardless of how small or large it might be.._**
+**_An accomplished MERN stack developer. With years of experience in MERN stack development, I possess a profound understanding of software architecture and database design. Also, specialize in creating dynamic and responsive web applications.
+My strong drive for learning and adapting to new technologies has enabled me to stay up-to-date with the latest trends and continuously improve my skills._**
 
-Portfolio: https://ashikur.vercel.app/
+Take a glimpse into my skills and expertise by exploring my portfolio at: https://ashikur.vercel.app/
 
-I have expertise with the following technologies:
-- Front-end: React.js, Next.js, Javascript, HTML5, CSS3, SASS, Bootstrap, Material UI
+The technologies I have experience with include:
+- Front-end: Next.js, React.js, TypeScript, Javascript, HTML5, CSS3, SASS, Bootstrap, Material UI
 - Back-end: Node.js, Express.js, MongoDB
-- Tools: Figma, Canva, Postman, Heroku, Vercel, Netlify, Visual Studio
-- OSs: Windows, Linux(Ubuntu, Fedora)
+- Tools: Docker, Webpack, AWS, Git, GitHub, Figma, Canva, Postman, Heroku, Vercel, Netlify, Visual Studio
+- OSs: Windows, Linux
 
 
 # 💻 Tech Stack:
